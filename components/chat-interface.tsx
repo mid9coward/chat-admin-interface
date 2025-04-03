@@ -364,7 +364,7 @@ export function ChatInterface() {
               >
                 <div className="flex-shrink-0 mr-2">
                   <Avatar>
-                    <AvatarImage src="/placeholder.svg?height=40&width=40" />
+                    <AvatarImage src="/placeholder-ai.png?height=40&width=40" />
                     <AvatarFallback className="bg-primary-color text-white">
                       AI
                     </AvatarFallback>
